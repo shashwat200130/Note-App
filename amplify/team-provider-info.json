@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifypractice639b0c6e": {}
+      },
+      "api": {
+        "amplifypractice": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
