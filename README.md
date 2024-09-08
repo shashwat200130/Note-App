@@ -3,11 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #AWS SERVICES
+
 This Project include AWS Service Like:
+
 AWS Amplify for deployment
+
 GraphQL API, APP Sync
+
 DynamoDB for data storage
+
 Here is the live demo link:
+
 https://main.dohezpdz0lp7p.amplifyapp.com/
 
 ## Available Scripts
